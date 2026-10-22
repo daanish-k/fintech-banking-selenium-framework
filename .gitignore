@@ -1,0 +1,51 @@
+# Maven build output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+logs/
+
+# TestNG output
+test-output/
+
+# ExtentReports / Screenshots output
+reports/
+extent-reports/
+screenshots/
+test-recordings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# Local Maven repo if stored inside workspace
+.m2/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
